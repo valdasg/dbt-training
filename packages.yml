@@ -1,0 +1,5 @@
+#from https://hub.getdbt.com/dbt-labs/dbt_utils/latest/
+# cli dbt deps
+packages:
+  - package: dbt-labs/dbt_utils
+    version: 0.8.5
